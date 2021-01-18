@@ -25,3 +25,9 @@
  ![image](https://user-images.githubusercontent.com/76132461/104968683-8547e980-59b4-11eb-97ec-a79f7bd711c0.png)
 
 4.- LISTA DE COMPONENTES
+
+![image](https://user-images.githubusercontent.com/76132461/104969380-49158880-59b6-11eb-8ea8-5d14611189b2.png)
+
+5.- EXPLICACIÓN 
+
+El primer circuito ha sido simulado en tinkercad con el fin de que se verifique que se cumple tanto con cálculos, como por simulación la .
