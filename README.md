@@ -45,5 +45,7 @@ En el segundo ejercicio, es una resolución mediante determinantes en una matriz
  
  Ejercicio 2.
  
- 
+ ![image](https://user-images.githubusercontent.com/76132461/104971266-3e5df200-59bc-11eb-8f65-0718f56ccddf.png)
+
+En este caso para resolver el determinante su utiliza la regla del triángulo ya que solo se aplica la formula establecida, como dijimos anteriormente, la cálculadora es exacta ya que lo pone en forma de fracción, de esa manera no se pierde ningun decimal, aun asi si es que el resultado en fracción, lo desarrollamos, nos da un resultado de un número muy cercado al que obtuvimos en el desarrollo.
 
