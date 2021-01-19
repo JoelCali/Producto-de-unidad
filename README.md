@@ -70,6 +70,10 @@ En este caso para resolver el determinante su utiliza la regla del triángulo ya
 
 7.- Conclusiones
 
+ * Para la resolución de ejercicios mixtos, se tomo en cuenta mucho las direcciones que las corrientes tomaban dentro del circuito al formar un lazo ya que esto seria clave para establecer las ecuaciones principales con sus signos correspondientes.
+ 
+ * En conclusión, la herramienta de calculadora de matrices nos facilitó la comprobación de los resultados ya calculados anteriormente, además de brindarnos varios métodos para resolver la determinante y no solo llegar por un método.
+
 8.- Bibliografia
 
  Floyd, T.L. (2007). Principios de circuitos eléctricos (Octava ed.)
