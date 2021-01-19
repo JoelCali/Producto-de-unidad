@@ -73,6 +73,8 @@ En este caso para resolver el determinante su utiliza la regla del triángulo ya
  * Para la resolución de ejercicios mixtos, se tomo en cuenta mucho las direcciones que las corrientes tomaban dentro del circuito al formar un lazo ya que esto seria clave para establecer las ecuaciones principales con sus signos correspondientes.
  
  * En conclusión, la herramienta de calculadora de matrices nos facilitó la comprobación de los resultados ya calculados anteriormente, además de brindarnos varios métodos para resolver la determinante y no solo llegar por un método.
+ 
+ * Concluimos que los lazos, ramas y nodos en un circuito mixto son aquellos que nos facilitaran los cálculos, ya que estos seccionan a nuestro circuito dándonos así pasos claves para la extracción de las ecuaciones y variables.
 
 8.- Bibliografia
 
