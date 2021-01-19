@@ -72,5 +72,7 @@ En este caso para resolver el determinante su utiliza la regla del triángulo ya
 
 8.- Bibliografia
 
+ Floyd, T.L. (2007). Principios de circuitos eléctricos (Octava ed.)
+
 
 
