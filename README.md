@@ -6,7 +6,10 @@
   * Identificar los circuitos y resolver los sistemas de ecuaciones establecidas.
   * Verificar con la herramienta de calculadora de matrices que se verifique con los valores que nosotros calculamos.
   * Identificar los lazos y nodos de un circuito mixto para resolverlo.
+  
 2.- MARCO TEÓRICO 
+
+
 
 3.- DESARROLLO
 
